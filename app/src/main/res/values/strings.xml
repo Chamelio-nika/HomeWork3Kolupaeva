@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework3Kolupaeva</string>
+    <string name="teststyle1">Здесь тестируем первый стиль</string>
+    <string name="teststyle2">Здесь тестируем второй стиль</string>
+    <string name="stylebutton1">стиль первой кнопки</string>
+    <string name="stylebutton2">Стиль второй кнопки</string>
+    <string name="teststyle3">Тестируем новый стиль</string>
+    <string name="stylebutton3">Кнопочка, которая хочет быть похожа на вторую, но немного другой</string>
+</resources>
